@@ -1,0 +1,75 @@
+﻿2020-03-24T16:13:23.2787410+13:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-24T16:13:23.2787410+13:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-24T16:13:23.2787410+13:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\SpecflowUnitTestProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-24T16:13:23.3903990+13:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\SpecflowUnitTestProject\bin\Debug\SpecflowUnitTestProject.dll
+2020-03-24T16:13:23.3903990+13:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\TestResults" (default)
+2020-03-24T16:13:23.3903990+13:00;VSTestExecutionThread;Info;Profile: SpecflowUnitTestProject
+2020-03-24T16:13:23.4083490+13:00;VSTestExecutionThread;Info;Log file path: C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\TestResults\SpecflowUnitTestProject_SpecflowUnitTestProject_2020-03-24T161323.log
+2020-03-24T16:13:23.4163277+13:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-24T16:13:23.4213149+13:00;Thread#13;Info;Checking license
+2020-03-24T16:13:23.4332842+13:00;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2020-03-24T16:13:33.4344300+13:00;Thread#13;Info;Evaluation delay finished.
+2020-03-24T16:13:33.4514264+13:00;Thread#13;Info;License check completed
+2020-03-24T16:13:33.4514264+13:00;Thread#13;Info;starting test run
+2020-03-24T16:13:33.4733581+13:00;Thread#13;Info;Discovering target: Default
+2020-03-24T16:13:33.4733581+13:00;Thread#13;Info;Discovering tests from assembly: C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\SpecflowUnitTestProject\bin\Debug\SpecflowUnitTestProject.dll
+2020-03-24T16:13:33.7346329+13:00;Thread#13;Info;Discovered tests from assembly: C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\SpecflowUnitTestProject\bin\Debug\SpecflowUnitTestProject.dll
+2020-03-24T16:13:33.7356303+13:00:Test Suite Dump
+2020-03-24T16:13:33.7366283+13:00:#0: SpecflowUnitTestProject/SpecflowUnitTestProject - 
+2020-03-24T16:13:33.7366283+13:00:#1: Default - 
+2020-03-24T16:13:33.7366283+13:00:#2: SpecflowUnitTestProject - 
+2020-03-24T16:13:33.7366283+13:00:#3: Use Gmail Account - 
+2020-03-24T16:13:33.7645826+13:00:#4: Login to Gmail Account - TestAssembly:SpecflowUnitTestProject/Feature:Use+Gmail+Account/Scenario:Login+to+Gmail+Account
+2020-03-24T16:13:33.7645826+13:00:End: Test Suite Dump
+2020-03-24T16:13:33.7835006+13:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-24T16:13:33.7844980+13:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-03-24T16:13:33.7844980+13:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-03-24T16:13:33.7884875+13:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-24T16:13:33.7884875+13:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-03-24T16:13:33.7884875+13:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-03-24T16:13:33.7884875+13:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-03-24T16:13:33.7894848+13:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-03-24T16:13:33.7904821+13:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-24T16:13:33.7924767+13:00:Thread #0: creating new test thread executor for SpecflowUnitTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-03-24T16:13:33.7934740+13:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-24T16:13:33.8144483+13:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-24T16:13:33.8154183+13:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-03-24T16:13:34.1078025+13:00:Thread#0:T:-> Loading plugin C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\SpecflowUnitTestProject\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-03-24T16:13:34.1281253+13:00:Thread#0:T:-> Using app.config
+2020-03-24T16:13:34.9978321+13:00:Thread#0: Test #4/0 is started on thread #0
+2020-03-24T16:13:44.6989953+13:00:Thread#0:B:Given I navigate to Gmail
+2020-03-24T16:13:49.3317710+13:00:Thread#0:T:done: UseGmailAccountSteps.GivenINavigateToGmail() (4.6s)
+2020-03-24T16:13:49.3317710+13:00:Thread#0:B:When I navigate to Sign In
+2020-03-24T16:14:01.7695138+13:00:Thread#0:T:done: UseGmailAccountSteps.WhenINavigateToSignIn() (12.4s)
+2020-03-24T16:14:01.7705123+13:00:Thread#0:B:And I Provide Email ID
+2020-03-24T16:14:03.3254200+13:00:Thread#0:T:done: UseGmailAccountSteps.WhenIProvideEmailID() (1.5s)
+2020-03-24T16:14:03.3254200+13:00:Thread#0:B:And I Provide Password
+2020-03-24T16:14:05.7553261+13:00:Thread#0:T:done: UseGmailAccountSteps.WhenIProvidePassword() (2.4s)
+2020-03-24T16:14:05.7553261+13:00:Thread#0:B:Then I should login to Gmail account
+2020-03-24T16:14:12.1428566+13:00:Thread#0:T:done: UseGmailAccountSteps.ThenIShouldLoginToGmailAccount() (6.4s)
+2020-03-24T16:14:12.1538263+13:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-24T16:14:12.1538263+13:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-24T16:14:12.1538263+13:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-24T16:14:12.1538263+13:00:Thread#0:Scheduler: No more tests for thread
+2020-03-24T16:14:12.1767980+13:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 37.1779687 seconds
+2020-03-24T16:14:12.2017271+13:00:Trying to cancel thread
+2020-03-24T16:14:12.2017271+13:00:Thread cancelled
+2020-03-24T16:14:12.2096781+13:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-24T16:14:12.2096781+13:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-24T16:14:12.2096781+13:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-24T16:14:12.2106752+13:00;Thread#13;Info;test run finished
+2020-03-24T16:14:12.2106752+13:00;Thread#13;Info;publishing test results
+2020-03-24T16:14:12.2346096+13:00;Thread#13;Info;test results published
+2020-03-24T16:14:12.2356070+13:00;Thread#13;Info;generating reports
+2020-03-24T16:14:12.3373357+13:00;Thread#13;Info;Starting external report generation process
+2020-03-24T16:14:14.1127200+13:00;Thread#13;Info;Successfully generated reports.
+2020-03-24T16:14:14.1137115+13:00;Thread#13;Info;Successfully generated reports
+2020-03-24T16:14:14.1227191+13:00:Total: 1
+2020-03-24T16:14:14.1237138+13:00:Succeeded: 1
+2020-03-24T16:14:14.1246817+13:00:Ignored: 0
+2020-03-24T16:14:14.1256789+13:00:Pending: 0
+2020-03-24T16:14:14.1256789+13:00:Skipped: 0
+2020-03-24T16:14:14.1256789+13:00:Failed: 0
+2020-03-24T16:14:14.1356518+13:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-03-24T16:14:14.1356518+13:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\user\source\repos\SpecflowAutomationTestingGmail\SpecflowAutomation\TestResults\SpecflowUnitTestProject_SpecflowUnitTestProject_2020-03-24T161323.html'
+========== End of log file ==========
